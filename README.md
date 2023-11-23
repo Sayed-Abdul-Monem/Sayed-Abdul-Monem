@@ -1,3 +1,4 @@
+![logo](https://github.com/Sayed-Abdul-Monem/Sayed-Abdul-Monem/blob/main/02.jpg)
 <h1 align="center">Hi 👋, I'm Sayed Abdul-Monem</h1>
 <h3 align="center">I am a BI/Data analyst with extensive experience in business intelligence, data analytics and reporting. I have always been fascinated by how businesses are run and how they can optimize their processes based on the available information at hand. My passion for data analysis has driven me to pursue a career in this field as it allows me to use my analytical skills to solve problems every day.</h3>
 
